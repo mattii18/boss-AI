@@ -1,0 +1,6 @@
+{
+  "openai_api_key": "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",
+  "telegram_bot_token": "7600816191:AAHglqWYgD2aVfiCba6m6m6qS3_aG-prlXQ",
+  "telegram_chat_id": "6673294456",
+  "symbols": ["US500", "DE40", "US100", "OIL.WTI", "NATGAS", "COCOA", "COFFEE"]
+}
